@@ -21,3 +21,30 @@ h1{
     width: 1540px;
     margin: 0 auto;
 }
+
+input{
+    width: 900px;
+    height: 50px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+button{
+    width: 900px;
+    height: 50px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.form{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    background-color: rgb(70, 70, 70);
+}
+
+.cont{
+    width: 1200px;
+    margin: 0 auto;
+    height: 190px;
+}
