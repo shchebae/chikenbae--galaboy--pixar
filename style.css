@@ -21,3 +21,12 @@ h1{
     width: 1540px;
     margin: 0 auto;
 }
+
+.blocks{
+    display: flex;
+    justify-content: space-between;
+}
+
+.blocks div img{
+    width: 450px;
+}
