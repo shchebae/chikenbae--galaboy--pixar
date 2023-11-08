@@ -22,22 +22,29 @@ h1{
     margin: 0 auto;
 }
 
-form input{
+input{
     width: 900px;
-    height: 30px;
-    margin: 0 auto;
+    height: 50px;
     border-radius: 5px;
+    margin-top: 30px;
 }
 
-form button{
+button{
     width: 900px;
-    height: 30px;
-    margin: 0 auto;
+    height: 50px;
     border-radius: 5px;
+    margin-top: 10px;
 }
 
-form{
-    width: 1540px;
+.form{
+    width: 100%;
     margin: 0 auto;
+    display: flex;
     background-color: rgb(70, 70, 70);
+}
+
+.cont{
+    width: 1200px;
+    margin: 0 auto;
+    height: 190px;
 }
